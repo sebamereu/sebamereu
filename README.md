@@ -16,7 +16,7 @@ Docker · Linux
 
 #### Projects
 
-- [maritime-vision-suite](https://github.com/sebamereu/maritime-vision-suite) —
+- [maritime-ai-vision](https://github.com/sebamereu/maritime-vision-suite) —
   maritime video analysis pipeline (detection/tracking in progress)
 - [conspiracy_critical_classification](https://github.com/sebamereu/conspiracy_critical_classification) —
   NLP text classification, PAN 2024 Subtask 1
